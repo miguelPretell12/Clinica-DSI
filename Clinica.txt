@@ -26,9 +26,10 @@ Procesos:
 - Reporte de Historial de Pago -> Mostrar una factura electronica
 
 Requisitos funcionales: 
-
-
-
+-
+-
+-
+-
 
 
 
