@@ -1,0 +1,36 @@
+Integrantes:
+- Ricardo Choque
+- Alonso Nuñez
+- Miguel Pretell
+- Gianfranco Flores
+
+Tema: Clinica - 
+
+Maquetacion:
+- index
+- Especialidades
+- Contactos
+- Quienes Somos
+- Medicos
+
+Procesos: 
+- Registro de Personal de RR.HH
+- Registro de Pacientes
+- Registro de Especialidades
+- Registro de Horario de atencion
+- Registro de Citas
+- Registro de Contactos
+- Registro de Historial Clinico 
+- Reporte de Historial Clinico -> Mostrar un documento con los detalles de la cita
+- Registro de Pago
+- Reporte de Historial de Pago -> Mostrar una factura electronica
+
+Requisitos funcionales: 
+
+
+
+
+
+
+
+
