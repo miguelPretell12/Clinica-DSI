@@ -2,7 +2,7 @@
 ## Tema de Investigacion:  Clinica - Historial Medico
 
 ## Integrantes
- Ricardo Choque
- Alonso Nuñez
-  Miguel Pretell
- Gianfranco Flores
+## Ricardo Choque
+## Alonso Nuñez
+## Miguel Pretell
+## Gianfranco Flores
